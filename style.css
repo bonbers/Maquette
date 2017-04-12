@@ -1,0 +1,51 @@
+body
+{
+background-color: black;
+color: white;
+}
+.header
+{
+font-family: 'Press Start 2P',cursive;
+border: 4px groove red;
+text-align: center;
+margin: 4px;
+}
+.nav
+{
+font-family: 'Press Start 2P',cursive;
+}
+section
+{
+font-family: 'Press Start 2P',cursive;
+flex: 5;
+}
+aside
+{
+
+flex: 1;
+font-family: 'Press Start 2P',cursive;
+border : 4px groove red;
+margin: 10px;
+}
+.num1
+{
+margin: 10px;
+border : 4px groove red;
+}
+.num2
+{
+margin: 10px;
+border : 4px groove red;
+
+}
+footer
+{
+font-family: 'Press Start 2P',cursive;
+border : 4px groove red;
+bottom: 0px;
+text-align: center;
+}
+.contenu
+{
+  display: flex;
+}
